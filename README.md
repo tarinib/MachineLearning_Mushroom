@@ -33,6 +33,12 @@ Sources:
 
 (c) Date: 27 April 1987
 
+#### Links
+
+[Link to analysis.ipynb](https://github.com/tarinib/MachineLearning_Mushroom/blob/master/src/analysis.ipynb)
+
+[Link to Report.ipynb](https://github.com/tarinib/MachineLearning_Mushroom/blob/master/results/Report.ipynb)
+
 ##### Reproduce the Analysis
 
 * Clone this repository on your local machine
@@ -43,7 +49,6 @@ Sources:
 * Run src/Analysis.ipynb in Python notebook environment. This will generate all figures in the results directory.
 
 * Run results/Report.ipynb to generate the report.
-
 
 
 ##### Dependencies
