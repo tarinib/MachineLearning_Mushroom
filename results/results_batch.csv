@@ -1,0 +1,7 @@
+classifier,training error,test error
+Knn,0.000984736582964052,0.001969473165928104
+Decision Tree,0.0,0.0
+Random Forest,0.0,0.0
+Logistic Regression,0.05399638929919581,0.05317577548005903
+Linear SVM,0.0,0.0
+Naive Bayes,0.07598883965205971,0.07533234859675042
