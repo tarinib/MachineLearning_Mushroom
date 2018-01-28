@@ -7,7 +7,9 @@ Machine Learning Project
 
 ##### Overview:
 
+Mushrooms are the fleshy, spongy fruit bodies of several species of macrofungi. Mushrooms are low in carbohydrates and high in fiber. They are rich in microminerals as well. However, all mushrooms are not edible. If you pick mushrooms, tt is important to have the knowledge of which ones are edibe or poisonous as misidentification can lead to sever consequences like liver transplant or even resulting in death.
 
+In my project, I have attempted to build machine learning models to classify a mushroom as either poisonous or edible based on its specific attributes. I explore regularization and feature selection to further tune in the model.
 
 ##### Data:
 
@@ -35,6 +37,14 @@ Sources:
 
 * Clone this repository on your local machine
 ```git clone https://github.com/tarinib/MachineLearning_Mushroom.git```
+
+* Navigate to the your cloned local repository and run clean.R in RStudio.
+
+* Run src/Analysis.ipynb in Python notebook environment. This will generate all figures in the results directory.
+
+* Run results/Report.ipynb to generate the report.
+
+
 
 ##### Dependencies
 ```Python```
